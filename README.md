@@ -59,6 +59,7 @@ $ source test/bin/activate
 ```
 $ pip3 install -r requirements.txt
 
+```
 ## :trophy: Results
 
 #### Our model gave around 99% accuracy for Face Mask Detection after training.
