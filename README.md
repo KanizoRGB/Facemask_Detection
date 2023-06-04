@@ -20,7 +20,7 @@ Our face mask detector didn't use any morphed masked images dataset. The model i
 This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
 
 ## :file_folder: Dataset
-The dataset used can be downloaded here - [Click to Download](https://github.com/KanizoRGB/Facemask_Detection/tree/master/dataset)
+The dataset used can be downloaded here - [Click to Download](https://github.com/KanizoRGB/Facemask_Detection/dataset)
 
 This dataset consists of __4000 images__ belonging to two classes:
 *	__with_mask: 2000 images__
